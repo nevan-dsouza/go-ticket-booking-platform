@@ -41,7 +41,7 @@ There are many great tutorials out there to understand and learn Go. I think Go 
 There are so many more reasons why one would want to give Go a chance, but I'm sure you can easily look it up instead of reading it here :)
 
 Here's what I did in the project as an overview:
-* It's a simple CLI application that doesnt not have any complexities. I just didn't want to waste time but actually touch on most topics required to understand Go.
+* It's a simple CLI application that does not have any complexities. I just didn't want to waste time and at the same time, actually touch on most topics required to understand Go.
 * This simple project was iterated constantly, cleaned up and then pushed. I did not just put it all down.
 * Topics implemented - `DATA TYPES` `VARIABLES & CONSTANTS` `FORMATTED OUTPUT` `USER INPUT` `POINTERS` `SCOPE RULES` `LOOPS` `IF-ELSE & SWITCH` `FUNCTIONS` `PACKAGES` `GOROUTINES` :smile:
 
