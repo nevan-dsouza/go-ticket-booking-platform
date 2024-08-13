@@ -1,10 +1,9 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">GO TICKET BOOKING PLATFORM</h3>
 
   <p align="center">
     A simple CLI project to learn Go and all its benefits :)
